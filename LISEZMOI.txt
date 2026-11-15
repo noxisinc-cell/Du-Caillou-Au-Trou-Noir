@@ -1,0 +1,3 @@
+Double-clique sur Du-caillou-au-trou-noir.exe pour jouer.
+F11 : plein ecran.
+Si Windows affiche "Windows a protege votre ordinateur" : Informations complementaires, puis Executer quand meme.
